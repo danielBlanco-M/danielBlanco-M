@@ -72,7 +72,7 @@ Aunque tengo conocimientos en **programación**, actualmente centro mi desarroll
 
 ---
 
-<h2>🛠️ Tecnologías que utilizo o estoy aprendiendo</h2>
+<h2>🛠️ Tecnologías que utilizo </h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -80,7 +80,4 @@ Aunque tengo conocimientos en **programación**, actualmente centro mi desarroll
   </a>
 </p>
 
----
-
-<h3 align="center">🚀 “La seguridad no es un producto, es un proceso.” — Bruce Schneier</h3>
 
