@@ -15,7 +15,7 @@ Mi perfil combina la base sólida de **desarrollo (DAM)** con una especializaci�
 
 ---
 
-<h2>🎯 Certificaciones y Foco Actual</h2>
+<h2>🎯 Certificaciones</h2>
 
 🚀 **Certificaciones:**
 - ✅ **CCNA (Cisco Certified Network Associate)**
