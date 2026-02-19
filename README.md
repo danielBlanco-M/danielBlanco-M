@@ -10,65 +10,45 @@
 
 <h2>👨‍💻 Sobre mí</h2>
 
-🎓 **Técnico en Sistemas Microinformáticos y Redes (SMR)**  
-💻 **Desarrollador de Aplicaciones Multiplataforma (DAM)**  
-🎓 **Estudiante del Máster en Ciberseguridad en Redes en Tajamar**  
-
-Soy una persona apasionada por la **tecnología, la informática y la ciberseguridad**.  
-Me gusta comprender cómo funcionan las redes, cómo protegerlas y cómo responder ante incidentes.  
-Aunque tengo conocimientos en **programación**, actualmente centro mi desarrollo profesional en el **ámbito de la ciberseguridad en redes**, reforzando mis competencias técnicas a través del máster y la preparación de certificaciones oficiales.
+🎓 **Técnico en Sistemas Microinformáticos y Redes (SMR)** 💻 **Desarrollador de Aplicaciones Multiplataforma (DAM)** 🎓 **Estudiante del Máster en Ciberseguridad en Redes en Tajamar** Soy una persona apasionada por la **tecnología, la informática y la ciberseguridad**.  
+Mi perfil combina la base sólida de **desarrollo (DAM)** con una especialización profunda en **infraestructura y defensa de redes**. Me enfoco en comprender cómo fluyen los datos, cómo blindar las comunicaciones y cómo responder ante incidentes en entornos corporativos.
 
 ---
 
-<h2>🎯 En qué estoy enfocado</h2>
+<h2>🎯 Certificaciones y Foco Actual</h2>
 
-🔐 **Especialización actual: Seguridad en redes y operaciones cibernéticas**  
-📘 Preparándome para certificaciones:
-- 🧩 **CCNA (Cisco Certified Network Associate)**  
-- 🛡️ **CyberOps Associate (Cisco)**  
-- 🔥 **Fortinet FCP Security Operations**
-
-🏅 **Certificación actual:** *CompTIA A+*  
-
-💡 Mi objetivo profesional es desarrollar una carrera en **ciberseguridad**, contribuyendo a la protección de sistemas y redes corporativas, y combinando mi base técnica en programación con la seguridad ofensiva y defensiva.
-
+🚀 **Certificaciones:**
+- ✅ **CCNA (Cisco Certified Network Associate)**
+- ✅ **CompTIA A+**
+- ✅ **CyberOps Associate (Cisco)**
+- ✅ **Fortinet FCP Security Operations**
 ---
 
 <h2>🧠 Habilidades y conocimientos</h2>
 
-🖥️ **Sistemas y redes**
-- Administración básica de redes LAN/WAN  
-- Configuración de routers y switches Cisco  
-- Seguridad de red, firewalls y segmentación  
-- Virtualización y entornos de laboratorio  
+🖥️ **Networking & Seguridad**
+- Configuración avanzada de **Routing & Switching** (VLANs, OSPF, EtherChannel, ACLs)
+- Seguridad de red, implementación de firewalls y segmentación lógica
+- Análisis de tráfico con **Wireshark** y auditoría con **Nmap**
+- Virtualización y despliegue de laboratorios en **GNS3 / Cisco Packet Tracer**
 
-💻 **Programación**
-- Conocimientos en **Java**, **Python** y **SQL**  
-- Desarrollo de pequeñas herramientas o scripts para automatización  
-- Uso de **GitHub** para control de versiones  
+💻 **Programación y Automatización**
+- **Python** orientado a redes y scripting de automatización
+- Conocimientos sólidos en **Java** y gestión de bases de datos **SQL**
+- Control de versiones avanzado con **Git/GitHub**
 
-⚙️ **Sistemas operativos**
-- Windows / Windows Server  
-- Linux (Ubuntu, Kali, Debian)  
+⚙️ **Sistemas Operativos**
+- **Linux** (Kali Linux para auditorías, Ubuntu, Debian)
+- **Windows Server** (Administración de roles , servicios y logs)
 
 ---
 
 <h2>🚀 Actualmente</h2>
 
-📚 Estudiando el **Máster en Ciberseguridad en Redes en Tajamar**.  
-🔎 Formándome en **seguridad de redes, análisis forense, pentesting y respuesta ante incidentes**.  
-💡 Combinando teoría con laboratorios prácticos y entornos simulados.  
-💬 Preparándome para certificaciones **Cisco** y **Fortinet**.  
-📈 Construyendo mi perfil profesional y compartiendo avances en mi aprendizaje.  
-
----
-
-<h2>🌱 Objetivos a corto plazo</h2>
-
-✅ Obtener las certificaciones **CCNA** y **CyberOps**  
-✅ Participar en proyectos colaborativos o *labs* de ciberseguridad  
-✅ Desarrollar mis propios *scripts* o *tools* de automatización  
-
+📚 Cursando el **Máster en Ciberseguridad en Redes**.  
+🔎 Investigando sobre **análisis forense, pentesting y respuesta ante incidentes**.  
+🛠️ Desarrollando laboratorios prácticos de redes seguras.  
+📈 Construyendo herramientas propias para la gestión eficiente de infraestructuras.
 
 ---
 
@@ -76,8 +56,6 @@ Aunque tengo conocimientos en **programación**, actualmente centro mi desarroll
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,linux,bash,git,github,vscode,network,cisco" />
+    <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,kali,vscode,pycharm" />
   </a>
 </p>
-
-
